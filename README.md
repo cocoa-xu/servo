@@ -1,6 +1,6 @@
 # Servo
 
-**TODO: Add description**
+Servo behaviour.
 
 ## Installation
 
